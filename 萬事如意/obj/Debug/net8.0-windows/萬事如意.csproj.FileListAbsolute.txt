@@ -1,0 +1,16 @@
+C:\Users\poo\source\repos\萬事如意\萬事如意\bin\Debug\net8.0-windows\萬事如意.exe
+C:\Users\poo\source\repos\萬事如意\萬事如意\bin\Debug\net8.0-windows\萬事如意.deps.json
+C:\Users\poo\source\repos\萬事如意\萬事如意\bin\Debug\net8.0-windows\萬事如意.runtimeconfig.json
+C:\Users\poo\source\repos\萬事如意\萬事如意\bin\Debug\net8.0-windows\萬事如意.dll
+C:\Users\poo\source\repos\萬事如意\萬事如意\bin\Debug\net8.0-windows\萬事如意.pdb
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.Form1.resources
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.csproj.GenerateResource.cache
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.AssemblyInfoInputs.cache
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.AssemblyInfo.cs
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.csproj.CoreCompileInputs.cache
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.dll
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\refint\萬事如意.dll
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.pdb
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\萬事如意.genruntimeconfig.cache
+C:\Users\poo\source\repos\萬事如意\萬事如意\obj\Debug\net8.0-windows\ref\萬事如意.dll
